@@ -1,7 +1,5 @@
 <h1 align="center">Cześć!👋 Jestem Maciej</h1>
-<h3 align="center">A Junior Backend Developer from Poland!</h3>
-
-- 🔭 I’m currently working on [Delish-Delivery](https://github.com/Macijke/Delish-Delivery)
+<h3 align="center">A Junior Developer from Poland!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
