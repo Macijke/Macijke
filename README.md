@@ -3,7 +3,9 @@
 Jestem Junior Developerem z Polski 🇵🇱. Pasjonuję się tworzeniem aplikacji internetowych oraz mobilnych. Obecnie rozwijam swoje umiejętności w **Javie** oraz ekosystemie **JavaScript/TypeScript**.
 
 🔭 **Aktualnie pracuję nad:** Rozwojem projektów Full Stack.
+
 🌱 **Uczę się:** Zaawansowanych wzorców w Spring Boot i architektury mikroserwisów.
+
 📫 **Kontakt:** | [Portfolio](https://macijke.pl)
 
 ---
