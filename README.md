@@ -6,7 +6,7 @@ Jestem Junior Developerem z Polski 🇵🇱. Pasjonuję się tworzeniem aplikacj
 
 🌱 **Uczę się:** Zaawansowanych wzorców w Spring Boot i architektury mikroserwisów.
 
-📫 **Kontakt:** | [Portfolio](https://macijke.pl)
+📫 **Kontakt/Projekty:** [Portfolio](https://macijke.pl)
 
 ---
 
